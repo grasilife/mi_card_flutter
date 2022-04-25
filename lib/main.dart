@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.teal,
         body: SafeArea(
-            child: Column(
+            child: Row(
           // mainAxisSize: MainAxisSize.min,
           // verticalDirection: VerticalDirection.up,
           // mainAxisAlignment: MainAxisAlignment.center,
