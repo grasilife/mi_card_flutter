@@ -18,12 +18,22 @@ class MyApp extends StatelessWidget {
               backgroundImage: AssetImage('images/mega-creator.png'),
             ),
             Text(
-              'fuguoqiang',
+              'Angela Yu',
               style: TextStyle(
                 fontFamily: 'Pacifico',
                 fontSize: 40,
                 color: Colors.white,
                 fontWeight: FontWeight.bold,
+              ),
+            ),
+            Text(
+              'FLUTTER DEVELOP',
+              style: TextStyle(
+                fontFamily: 'SourceSansPro',
+                fontSize: 20,
+                color: Colors.teal.shade100,
+                fontWeight: FontWeight.bold,
+                letterSpacing: 2.5,
               ),
             ),
           ],
