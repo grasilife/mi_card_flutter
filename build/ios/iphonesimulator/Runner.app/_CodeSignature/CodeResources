@@ -138,7 +138,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		nWLb2D1uMVazYG20A5cdsebbH1c=
+		N/5rRZmaMq3VLHJEjHhv/iCHG+Y=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -146,15 +146,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		AiXpjV+uwhvjaKsLdH/ZSOOQRZ8=
+		agpy0qbqDc8EQIT1oODZidRUDwg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		1FfuGLgTTAKIB+fNGeg/0YRGREA=
+		oSUoIUOvFBHMmuHwfeYzH8d09GY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		SVEulIhKMdieqn/KHr54thVi/gM=
+		pVefOwjnT2FB+C5Y927pRnSyky4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
@@ -168,6 +168,10 @@
 		<data>
 		U89+PQZP5BOOl+fyWTwHjUJSzBg=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf</key>
+		<data>
+		F8JUdcA2n3+MhGKvnPEnpM9vEzI=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/mega-creator.png</key>
 		<data>
 		jBBgBh11oJLOzMrl5AXm5p+nb5A=
@@ -178,7 +182,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		NSA2DO8eeYn42EYLa/HjBZSfVtE=
+		ewC2c6cDfzop8mxCzRnQayYQrqg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -518,7 +522,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R/8kWpi+6BQi2kWyEVKYw//pp4KksFEtoiCJ+/HlkXg=
+			Pj7+Y/qRnpijVU2Kk6j4Ps/XlktQ4QkRbljqMKrDKk0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -532,21 +536,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OsAQ7sYzmTbHUQuK1MNXeHMEiJLJPO4qy+0E8IT9ygo=
+			qKO0yK3+BC7JcGD08nOOWsh9HQIu5o95xAZtbwNbnxU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BdPDYneSCVRoMoUHIRd7u+tv0wLPQMCS/vEC2OUgrtI=
+			V9MORsW8AoRqAxNBOS/kxnhe2ElW4onkmZRtNxO5E7o=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UOabK3q9oaqNkD05h+nb0T+QuqIzucHv9yIFIMjrXDU=
+			mXcodMBfc6tWvGv0xPg/HAeoyyytgGfd4C6Z5r96djM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
@@ -570,6 +574,13 @@
 			XoycHQZ+vF957bf8jhZW73rGN/hf7FGxZ89R/XnjFho=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cdEKhrTFSlqcDItGflOsZ9ee25bJVuTp9lpwdN+5mSo=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/mega-creator.png</key>
 		<dict>
 			<key>hash2</key>
@@ -588,7 +599,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hhxk4flqRd7apjXht1qA6E4R7gW4uCdDsHP2/Xssg48=
+			c1bNfsyYNIfG5ePTnLapULyqtllUN1eEqapFRLTXfp4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
