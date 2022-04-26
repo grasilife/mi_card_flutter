@@ -16,7 +16,16 @@ class MyApp extends StatelessWidget {
             CircleAvatar(
               radius: 50,
               backgroundImage: AssetImage('images/mega-creator.png'),
-            )
+            ),
+            Text(
+              'fuguoqiang',
+              style: TextStyle(
+                fontFamily: 'Pacifico',
+                fontSize: 40,
+                color: Colors.white,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
           ],
         )),
       ),
